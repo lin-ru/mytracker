@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chart_x_axis_night">#EEFFEE</color>
+    <color name="black">@color/ap_black</color>
+    <color name="white">@color/ap_white</color>
+    <color name="bg_color_day">#FBFBFB</color>
+    <color name="bg_color_night">#353535</color>
+</resources>

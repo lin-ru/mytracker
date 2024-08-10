@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyTracker" parent="Theme.MaterialComponents.Light">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">?android:attr/colorActivatedHighlight</item>
+        <item name="colorPrimaryVariant">?android:attr/colorEdgeEffect</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">?attr/colorPrimaryVariant</item>
+        <item name="colorSecondaryVariant">@color/material_dynamic_neutral60</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <item name="bottomNavigationStyle" >@color/ap_gray</item>
+    </style>
+    <color name="colorBarChart">#F17A0A</color>
+    <color name="textColorXaxis">@color/ap_gray</color>
+    <item name="textBGColorInfoDescription" type="color">@color/bg_color_day</item>
+
+</resources>

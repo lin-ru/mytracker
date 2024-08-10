@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой трекер</string>
+    <string name="label_for_input_weight">Ваш вес</string>
+    <string name="title_dashboard">Статистика</string>
+    <string name="title_notifications">Уведомления</string>
+    <string name="label_for_input_date">Введите дату</string>
+    <string name="label_for_button_save">Сохранить</string>
+    <string name="title_my_tracker">Мой трекер</string>
+    <string name="label_for_input_medical">Лекарства сегодня:</string>
+    <string name="label_for_input_weight_units">кг</string>
+    <string name="label_for_today_details">Опишите ваше самочувствие за день:</string>
+    <string name="hint_optionaly">Не обязательно</string>
+    <string name="toastTextSetDayError">Ошибка: эта дата в будущем</string>
+    <string name="toastTextSaveCurrentDay">Текущий день записан</string>
+    <string name="title_home">Сегодня</string>
+    <string name="bottom_menu_title_tracker_button">Запись</string>
+    <string name="descritpion_of_current_week_chart">Вес на текущей неделе:</string>
+    <string name="chart_message_no_data">Нет данных</string>
+    <string name="chart_value_weight_unit">кг</string>
+    <string-array name="day_of_week_array">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </string-array>
+    <string name="chart_weight_legend">Вес</string>
+    <string name="locale_stirng_lanfuage">RU</string>
+    <string name="int_value_week_day">2</string>
+    <string name="label_for_average_weight">Средний вес на этой неделе:</string>
+    <string name="label_for_average_weight_ago">Средний вес на прошлой неделе:</string>
+    <string name="under_consrtuction">Страница в разработке</string>
+    <string name="info_dialog_titile">О приложении</string>
+    <string name="author">Автор:</string>
+    <string name="switch_theme_light_dark">Изменить тему: </string>
+    <string name="lina_rusakova">Лина Русакова</string>
+    <string name="app_description">Приложение показывает на графике статистику веса на текущей неделе, расчитывает итоговый средний вес на текущей неделе, и если он выше / ниже  от среднего веса на прошлой неделе, указывает на это цветовым индикатором.
+\n\nПриложение позволяет ежедневно записывать:\n
+ - ваш вес,\n
+ - сведения о принимаемых лекарствах,\n
+ - другие важные для вас сведения, которые могут влиять на вес.\n\nСведения за любой день можно посмотреть выбрав дату в календаре (коснитесь даты, для показа календаря)</string>
+    <string name="app_title_description">Описание:</string>
+    <string name="version">Версия:</string>
+    <string name="source_code">Исходный код:</string>
+
+    <string name="toast_theme_cnaged">Тема изменена</string>
+    <string name="please_donate_link">Если вам понравилось приложение, вы можете поддержать автора и дальнейшую разработку через сервис:  <a href="https://yoomoney.ru/to/4100110684467733">Yoomoney</a></string>
+    <string name="toastTextNoSaveZeroWeight">Пожалуйста, укажите ваш вес перед сохранением!</string>
+    <string name="info">Info</string>
+    <string name="input_your_weight">Введите ваш вес</string>
+</resources>
